@@ -126,7 +126,7 @@ const Project = () => {
           <div className="w-full md:w-1/2 aspect-video flex justify-center">
             <div className="h-fit rounded-md overflow-hidden border border-dark p-0 ">
               <ReactPlayer
-                url="https://res.cloudinary.com/dwkwquprv/video/upload/v1722453758/Mini_Twitter_gtqde1.mp4"
+                url="https://res.cloudinary.com/dwkwquprv/video/upload/v1722461281/Mini_Twitter_gjledh.mp4"
                 controls={true}
                 width="100%"
               />
