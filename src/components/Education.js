@@ -93,7 +93,7 @@ const Education = () => {
                   </h1>
                   <h1>Phagwara, Punjab </h1>
                 </div>
-                <h1 className="text-sm">CGPA : 8.64</h1>
+                <h1 className="text-sm">CGPA : 8.70</h1>
               </div>
             </div>
 
